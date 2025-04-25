@@ -27,7 +27,7 @@ This project is built using the following technologies:
 | **Keras** | High-level neural network API |
 | **NumPy** | Scientific computing and array operations |
 | **Jupyter Notebook** | Research, testing, and prototyping |
-
+| **Ananconda**|
 ---
 
 ## **⚙️ Installation & Setup**
@@ -45,18 +45,18 @@ pip install tensorflow keras streamlit numpy
 
 ### **🔹 Clone the Repository**
 ```bash
-git clone https://github.com/your-username/green-guard.git
-cd green-guard
+git clone https://github.com/mansi066/GreenGuard.git
+cd GreenGuard
 ```
 
 ### **🔹 Run the Application**
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 
 ---
 
-## **📸 Usage Instructions**
+ **📸 Usage Instructions**
 ### **Step 1:** Upload an Image or Capture using Camera  
 ### **Step 2:** AI Detects Disease & Predicts Plant Health  
 ### **Step 3:** Buy Healthy Plants or Treatments via Flipkart  
