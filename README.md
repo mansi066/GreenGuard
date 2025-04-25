@@ -1,13 +1,13 @@
-Certainly! Here is a **README.md file** for your **Green Guard App**, summarizing its features, technologies used, installation steps, and usage instructions.
 
----
 
-### **🌱 Green Guard - AI-Powered Plant Health Monitoring**
+```markdown
+# 🌱 Green Guard - AI-Powered Plant Health Monitoring
+
 Green Guard is an AI-powered plant health monitoring system that helps users **detect plant diseases**, recommend **healthy plants**, and suggest **treatment options** such as **pesticides and fertilizers** using **Flipkart One-Click Buying**.
 
 ---
 
-## **🚀 Features**
+## 🚀 Features
 ✅ **AI-Powered Disease Detection**  
 ✅ **Camera Support for Live Image Capture**  
 ✅ **One-Click Flipkart Purchase for Healthy Plants & Pesticides**  
@@ -16,54 +16,55 @@ Green Guard is an AI-powered plant health monitoring system that helps users **d
 
 ---
 
-## **🔧 Technologies Used**
+## 🔧 Technologies Used
 This project is built using the following technologies:
 
-| **Technology** | **Purpose** |
-|--------------|------------|
-| **Python** | Core programming language |
-| **Streamlit** | Web application framework for UI |
-| **TensorFlow** | Deep learning framework |
-| **Keras** | High-level neural network API |
-| **NumPy** | Scientific computing and array operations |
+| **Technology**   | **Purpose**                            |
+|-----------------|----------------------------------------|
+| **Python**      | Core programming language             |
+| **Streamlit**   | Web application framework for UI      |
+| **TensorFlow**  | Deep learning framework               |
+| **Keras**       | High-level neural network API         |
+| **NumPy**       | Scientific computing and array operations |
 | **Jupyter Notebook** | Research, testing, and prototyping |
-| **Ananconda**|
+| **Anaconda**    | Package and environment management    |
+
 ---
 
-## **⚙️ Installation & Setup**
+## ⚙️ Installation & Setup
 ### **Prerequisites**
 - Python 3.x installed
 - Virtual environment (recommended)
 - Pip package manager
 
-### **🔹 Install Required Dependencies**
+### 🔹 Install Required Dependencies
 Run the following command to install all necessary libraries:
 
 ```bash
 pip install tensorflow keras streamlit numpy
 ```
 
-### **🔹 Clone the Repository**
+### 🔹 Clone the Repository
 ```bash
 git clone https://github.com/mansi066/GreenGuard.git
 cd GreenGuard
 ```
 
-### **🔹 Run the Application**
+### 🔹 Run the Application
 ```bash
 streamlit run main.py
 ```
 
 ---
 
- **📸 Usage Instructions**
+## 📸 Usage Instructions
 ### **Step 1:** Upload an Image or Capture using Camera  
 ### **Step 2:** AI Detects Disease & Predicts Plant Health  
 ### **Step 3:** Buy Healthy Plants or Treatments via Flipkart  
 
 ---
 
-## **💡 Future Enhancements**
+## 💡 Future Enhancements
 ✔ **Climate-Based Disease Risk Alerts**  
 ✔ **Batch Image Processing for Faster Analysis**  
 ✔ **Confidence Score Display for Predictions**  
@@ -71,7 +72,8 @@ streamlit run main.py
 
 ---
 
-## **📬 Contributions**
+## 📬 Contributions
 Feel free to open **issues** or submit **pull requests** to improve the Green Guard App.
 
-Would you like me to customize **repository details**, like GitHub username or additional sections? 🚀🌱  
+---
+
