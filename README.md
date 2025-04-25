@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # 🌱 Green Guard - AI-Powered Plant Health Monitoring
 
 Green Guard is an AI-powered plant health monitoring system that helps users **detect plant diseases**, recommend **healthy plants**, and suggest **treatment options** such as **pesticides and fertilizers** using **Flipkart One-Click Buying**.
@@ -70,7 +70,7 @@ streamlit run main.py
 ✔ **Confidence Score Display for Predictions**  
 ✔ **Nearby Crop Disease Tracking**  
 
----
+--- 
 
 ## 📬 Contributions
 Feel free to open **issues** or submit **pull requests** to improve the Green Guard App.
