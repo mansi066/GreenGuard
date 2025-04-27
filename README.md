@@ -1,21 +1,22 @@
+![github-submission-banner](https://github.com/user-attachments/assets/a1493b84-e4e2-456e-a791-ce35ee2bcf2f)
 
 
 ---
 
-# Green Guard – AI-Powered Plant Health Monitoring
+# 🚀 Green Guard – AI-Powered Plant Health Monitoring
 
 > AI-driven **plant disease detection** and **treatment recommendation system** powered by **Groq AI acceleration**, now integrated with **Flipkart for purchasing plant treatments**.
 
 ---
 
-##  Problem Statement
+##  📌 Problem Statement
 
 **Problem Statement 1 – Weave AI Magic with Groq**  
 Green Guard leverages **Groq’s ultra-fast AI inference** and **Anaconda-based environment management** to deliver **real-time plant disease detection** and **Flipkart-integrated treatment solutions**.
 
 ---
 
-##  Objective
+##  🎯 Objective
 
 Green Guard utilizes **AI-powered image recognition** to diagnose plant diseases, recommend treatments, and seamlessly connect users to Flipkart’s marketplace for purchases. **With Groq acceleration**, the system ensures **fast & accurate results** for farmers and plant owners.
 
@@ -44,11 +45,11 @@ Green Guard utilizes **AI-powered image recognition** to diagnose plant diseases
 - **Database:** Local storage (future cloud integration)  
 - **AI Models:** TensorFlow, Keras  
 - **Environment Management:** Anaconda  
-- **Hosting:** Local execution, future cloud deployment  
+- **Hosting:** Local execution, future cloud deployment
+- **Flipkart API:** One-click plant & treatment purchase integration  
 
 ### **Sponsor Technologies Used**
 - ✅ **Groq:** Ultra-fast AI inference for real-time plant health predictions  
-- ✅ **Flipkart API:** One-click plant & treatment purchase integration  
 
 ---
 
