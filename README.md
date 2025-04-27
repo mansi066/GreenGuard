@@ -1,79 +1,147 @@
+![github-submission-banner](https://github.com/user-attachments/assets/a1493b84-e4e2-456e-a791-ce35ee2bcf2f)
 
-
-
-# 🌱 Green Guard - AI-Powered Plant Health Monitoring
-
-Green Guard is an AI-powered plant health monitoring system that helps users **detect plant diseases**, recommend **healthy plants**, and suggest **treatment options** such as **pesticides and fertilizers** using **Flipkart One-Click Buying**.
 
 ---
 
-## 🚀 Features
-✅ **AI-Powered Disease Detection**  
-✅ **Camera Support for Live Image Capture**  
-✅ **One-Click Flipkart Purchase for Healthy Plants & Pesticides**  
-✅ **Instant AI Diagnosis for Crops**  
-✅ **Upcoming: Climate-Based Risk Alerts & Batch Processing for Plant Analysis**  
+# 🚀 Green Guard – AI-Powered Plant Health Monitoring
+
+> AI-driven **plant disease detection** and **treatment recommendation system** powered by **Groq AI acceleration**, now integrated with **Flipkart for purchasing plant treatments**.
 
 ---
 
-## 🔧 Technologies Used
-This project is built using the following technologies:
+##  📌 Problem Statement
 
-| **Technology**   | **Purpose**                            |
-|-----------------|----------------------------------------|
-| **Python**      | Core programming language             |
-| **Streamlit**   | Web application framework for UI      |
-| **TensorFlow**  | Deep learning framework               |
-| **Keras**       | High-level neural network API         |
-| **NumPy**       | Scientific computing and array operations |
-| **Jupyter Notebook** | Research, testing, and prototyping |
-| **Anaconda**    | Package and environment management    |
+**Problem Statement 1 – Weave AI Magic with Groq**  
+Green Guard leverages **Groq’s ultra-fast AI inference** and **Anaconda-based environment management** to deliver **real-time plant disease detection** and **Flipkart-integrated treatment solutions**.
 
 ---
 
-## ⚙️ Installation & Setup
-### **Prerequisites**
-- Python 3.x installed
-- Virtual environment (recommended)
-- Pip package manager
+##  🎯 Objective
 
-### 🔹 Install Required Dependencies
-Run the following command to install all necessary libraries:
+Green Guard utilizes **AI-powered image recognition** to diagnose plant diseases, recommend treatments, and seamlessly connect users to Flipkart’s marketplace for purchases. **With Groq acceleration**, the system ensures **fast & accurate results** for farmers and plant owners.
 
-```bash
-pip install tensorflow keras streamlit numpy
-```
+---
 
-### 🔹 Clone the Repository
+##  Team & Approach
+
+
+
+### **Team Members:**  
+- Mansi
+
+### **Approach:**  
+- Integrated **Groq’s inference acceleration** for **instant AI-powered diagnoses**.  
+- Optimized disease prediction models for **real-time responses**.  
+- Leveraged **Anaconda** for package management & virtual environments.  
+- Enhanced recommendation accuracy for **treatment options** via Flipkart.
+
+---
+
+## 🛠️ Tech Stack
+
+### **Core Technologies Used**
+- **Frontend:** Streamlit  
+- **Backend:** Python  
+- **Database:** Local storage (future cloud integration)  
+- **AI Models:** TensorFlow, Keras  
+- **Environment Management:** Anaconda  
+- **Hosting:** Local execution, future cloud deployment
+- **Flipkart API:** One-click plant & treatment purchase integration  
+
+### **Sponsor Technologies Used**
+- ✅ **Groq:** Ultra-fast AI inference for real-time plant health predictions  
+
+---
+
+## ✨ Key Features
+
+- ✅ **AI-Powered Disease Detection** with Groq Acceleration  
+- ✅ **Instant Image-Based Diagnosis**  
+- ✅ **One-Click Flipkart Purchase** for Healthy Plants & Treatments  
+- ✅ **Climate-Based Risk Alerts (Upcoming)**  
+- ✅ **Batch Processing for Faster Plant Health Analysis (Upcoming)**  
+
+---
+
+## 📽️ Demo & Deliverables
+
+- **Demo Video Link:** [Watch on YouTube](https://www.youtube.com/watch?v=LXJ-LJUeLoA)
+- ![Screenshot 2025-04-24 212830](https://github.com/user-attachments/assets/1bcf8885-08fb-4ae2-8d72-67c972428a40)
+![Screenshot 2025-04-27 214616](https://github.com/user-attachments/assets/3154dce4-5371-4466-833c-6723a9337eec)
+![Screenshot 2025-04-24 212900](https://github.com/user-attachments/assets/ef888152-288e-42e6-98a6-7cd84abe8001)
+![Screenshot 2025-04-24 212714](https://github.com/user-attachments/assets/b2473ea3-dcc1-48ba-8a1d-df5cd69a22ca)
+![Screenshot 2025-04-24 212727](https://github.com/user-attachments/assets/d4a269c7-02fc-4e33-a7de-bf8b3bd97e42)
+![Screenshot 2025-04-24 212758](https://github.com/user-attachments/assets/8db9ea86-68be-4cb4-93b7-a035c1d8bfcc)
+![Screenshot 2025-04-24 212812](https://github.com/user-attachments/assets/dd4418ee-8fa4-447e-ba47-9e410b15d949)
+
+
+
+
+---
+
+## ✅ Tasks & Bonus Checklist
+
+- ✅ **All members followed social channels & submitted form**  
+- ✅ **Completed Bonus Task 1 - Sharing of Badges (2 points)**  
+- ✅ **Completed Bonus Task 2 - Sprint.dev registration (3 points)**  
+
+---
+
+##  How to Run the Project
+
+### **Clone the Repository**
 ```bash
 git clone https://github.com/mansi066/GreenGuard.git
 cd GreenGuard
 ```
 
-### 🔹 Run the Application
-```bash
-streamlit run main.py
-```
+### **Set Up the Anaconda Environment**
+1. **Ensure Anaconda is installed**  
+   Download Anaconda [here](https://www.anaconda.com/products/distribution).
+
+2. **Create a virtual environment**  
+   ```bash
+   conda create --name greenguard_env python=3.8
+   conda activate greenguard_env
+   ```
+
+3. **Install dependencies using Anaconda**  
+   ```bash
+   pip install tensorflow keras streamlit numpy groq pillow
+   ```
+
+4. **Run the application**  
+   ```bash
+   streamlit run main.py
+   ```
 
 ---
 
-## 📸 Usage Instructions
-### **Step 1:** Upload an Image or Capture using Camera  
-### **Step 2:** AI Detects Disease & Predicts Plant Health  
-### **Step 3:** Buy Healthy Plants or Treatments via Flipkart  
+## 🧬 Future Scope
+
+-  **Climate-Based Disease Risk Alerts**  
+-  **Confidence Score Display for Predictions**  
+-  **Tracking Nearby Crop Diseases**  
+-  **Potential IoT Device Integration**  
 
 ---
 
-## 💡 Future Enhancements
-✔ **Climate-Based Disease Risk Alerts**  
-✔ **Batch Image Processing for Faster Analysis**  
-✔ **Confidence Score Display for Predictions**  
-✔ **Nearby Crop Disease Tracking**  
+## 📎 Resources / Credits
 
---- 
-
-## 📬 Contributions
-Feel free to open **issues** or submit **pull requests** to improve the Green Guard App.
+- Utilized **public plant disease datasets**  
+- Leveraged **TensorFlow & Keras** for AI model training  
+- Integrated **Flipkart API** for treatment recommendations  
+- Managed dependencies using **Anaconda**  
+- Acknowledging contributions from the **open-source community**  
 
 ---
+
+## 🏁 Final Words
+
+Green Guard integrates **Groq’s high-speed AI inference** and **Anaconda** for efficient package management to revolutionize **plant health monitoring**. From optimizing **disease detection** to **Flipkart-integrated treatment recommendations**, we’re making plant care smarter & faster! 🚀🌱  
+
+Looking forward to expanding Green Guard’s capabilities for **greater agricultural impact!**  
+
+---
+
 
