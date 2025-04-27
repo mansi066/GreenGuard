@@ -52,6 +52,8 @@ if app_mode == "Home":
     centered_title("🌱 Welcome to Green Guard", "green")
     
     st.markdown("""
+                ![Green Guard](https://media.istockphoto.com/id/506316644/photo/care-of-new-life-baby-plant.jpg?s=612x612&w=0&k=20&c=WFoChLD0LnmiN7h9y1-zz6GV28IosfmoMzZQvBYnNYY=)
+
         **Green Guard** is an **AI-powered plant health monitoring system** designed to help users **detect plant diseases, recommend healthy plants**, and suggest **pesticides & medicines** for treatment.
 
         ### **🚀 Features**
@@ -71,7 +73,33 @@ elif app_mode == "About Green Guard":
     centered_title("📖 About Green Guard", "darkgoldenrod")
 
     st.markdown("""
-        **Green Guard** integrates **Groq’s ultra-fast AI inference** to provide **real-time plant health monitoring** with instant treatment recommendations.
+       # 📖 About Green Guard
+
+## 🌿 Introduction  
+Green Guard is an AI-powered **plant health monitoring system** that helps farmers, gardeners, and plant owners **detect diseases**, **recommend healthy plants**, and suggest **treatment options**—all integrated with **Flipkart One-Click Buying**.
+
+## 🚀 Features  
+- **⚡ AI-Powered Disease Detection** → Upload or capture images for real-time diagnosis.  
+- **🎥 Camera Support** → Take live pictures directly from the application.  
+- **🛒 Flipkart Integration** → Buy **healthy plants** or **treatment solutions** instantly.  
+- **🌦 Climate-Based Risk Alerts** _(Coming Soon!)_ → Predict plant disease risks based on weather patterns.  
+- **📈 Batch Processing** _(Upcoming)_ → Analyze multiple plant images simultaneously.
+
+## 🔬 How It Works  
+1️⃣ **Upload an Image or Capture with Camera** → Take a plant photo or upload an existing image.  
+2️⃣ **AI Detects Disease & Predicts Plant Health** → The trained model provides instant analysis.  
+3️⃣ **Get Treatment Recommendations** → If diseased, Green Guard suggests pesticides or remedies.  
+4️⃣ **Buy Healthy Plants or Treatments via Flipkart** → Purchase essential items in one click.
+
+## 🔎 Why Green Guard?  
+✅ **Real-Time AI Diagnosis** → Helps farmers prevent crop losses and improve plant health.  
+✅ **Effortless Shopping** → Connects users with the **right plants, fertilizers, and treatments** in seconds.  
+✅ **Continuous Improvements** → Future upgrades include **climate-based alerts** & **IoT-based plant monitoring**.
+
+---
+
+### 💡 Join the Green Revolution! 🌍  
+With Green Guard, we empower users to make **data-driven decisions** about plant care, ensuring **healthier crops** and **more sustainable agriculture**. 🌱🚀  
     """)
 
 # Disease Recognition Page
