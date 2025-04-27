@@ -65,7 +65,17 @@ Green Guard utilizes **AI-powered image recognition** to diagnose plant diseases
 
 ## 📽️ Demo & Deliverables
 
-- **Demo Video Link:** [Watch on YouTube](https://www.youtube.com/watch?v=LXJ-LJUeLoA)  
+- **Demo Video Link:** [Watch on YouTube](https://www.youtube.com/watch?v=LXJ-LJUeLoA)
+- ![Screenshot 2025-04-24 212830](https://github.com/user-attachments/assets/1bcf8885-08fb-4ae2-8d72-67c972428a40)
+![Screenshot 2025-04-27 214616](https://github.com/user-attachments/assets/3154dce4-5371-4466-833c-6723a9337eec)
+![Screenshot 2025-04-24 212900](https://github.com/user-attachments/assets/ef888152-288e-42e6-98a6-7cd84abe8001)
+![Screenshot 2025-04-24 212714](https://github.com/user-attachments/assets/b2473ea3-dcc1-48ba-8a1d-df5cd69a22ca)
+![Screenshot 2025-04-24 212727](https://github.com/user-attachments/assets/d4a269c7-02fc-4e33-a7de-bf8b3bd97e42)
+![Screenshot 2025-04-24 212758](https://github.com/user-attachments/assets/8db9ea86-68be-4cb4-93b7-a035c1d8bfcc)
+![Screenshot 2025-04-24 212812](https://github.com/user-attachments/assets/dd4418ee-8fa4-447e-ba47-9e410b15d949)
+
+
+
 
 ---
 
